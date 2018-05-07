@@ -12,7 +12,7 @@ Also see [React JSON MQTT Potentiometer](https://github.com/RyleeHarrison/react-
 ## Documentation
 
 - React documentation [Here](https://reactjs.org/docs).
-- Google Protocol Buffer JS [Here](https://developers.google.com/protocol-buffers/docs/reference/javascript-generated)
+- Google Protocol Buffers JS [Here](https://developers.google.com/protocol-buffers/docs/reference/javascript-generated)
 - Nanopb - Protocol Buffers for Embedded Systems [Here](https://jpa.kapsi.fi/nanopb/docs/)
 - PubSubClient - Arduino Client for MQTT[Here](https://pubsubclient.knolleary.net/api.html).
 
