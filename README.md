@@ -27,5 +27,5 @@ Open the arduino sketch ([Arduino IDE](https://www.arduino.cc/en/Main/Software))
 
 ## Arduino libraries
 You will need to install the following Arduino libraries.
-*  [ArduinoJson](https://arduinojson.org/doc/installation)
+*  [Nanopb](https://jpa.kapsi.fi/nanopb/download/)
 *  [PubSubClient](https://github.com/knolleary/pubsubclient)
